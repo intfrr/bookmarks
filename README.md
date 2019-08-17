@@ -35,3 +35,7 @@
 ### privacy tools
 * [privacy tools](https://www.privacytools.io)
 * [prism-break, privacy tools](https://prism-break.org/en/)
+
+
+### misc
+* [top academic papers](https://www.fermatslibrary.com/)
