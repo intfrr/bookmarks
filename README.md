@@ -25,6 +25,13 @@
 * [bitcoinity](https://data.bitcoinity.org/markets/books/USD)
 * [cryptowat.ch](https://cryptowat.ch/)
 * [lightning network stats](http://1ml.com/)
+
+* [open-source payment processor with lightning](https://btcpayserver.org/)
+
+* [ccxt, crypto trading api](https://github.com/ccxt/ccxt)
+* [hummingbot, crypto arb library](https://hummingbot.io/start/)
+* [gryphon, crypto trading library](http://www.gryphonframework.org/)
+
 * [satoshi nakamoto institue](https://nakamotoinstitute.org)
 * [noded podcast](https://noded.org)
 * [stephen livera podcast](https://stephanlivera.com)
