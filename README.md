@@ -3,7 +3,7 @@
 * [polygon](https://polygon.io)
 * [tiingo](https://www.tiingo.com)
 * [quandl](https://www.quandl.com)
-* [rank and filed, sec filings browser][http://rankandfiled.com/]
+* [rank and filed, sec filings browser](http://rankandfiled.com/)
 * [bamsec, sec filings browser](https://www.bamsec.com)
 * [historical crypto pricing data](https://www.cryptodatadownload.com)
 
@@ -21,7 +21,7 @@
 * [article: how to register a company in usa](http://aynuriev.com/how-to-register-company-usa/)
 
 
-### crypto
+### bitcoin
 * [bitcoinity](https://data.bitcoinity.org/markets/books/USD)
 * [cryptowat.ch](https://cryptowat.ch/)
 * [lightning network stats](http://1ml.com/)
