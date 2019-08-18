@@ -45,3 +45,4 @@
 * [top academic papers](https://www.fermatslibrary.com/)
 * [mental models](https://fs.blog/mental-models/)
 * [vim tutorial](https://danielmiessler.com/study/vim/)
+* [writing config files in toml](https://en.wikipedia.org/wiki/TOML)
