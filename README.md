@@ -45,4 +45,5 @@
 * [top academic papers](https://www.fermatslibrary.com/)
 * [mental models](https://fs.blog/mental-models/)
 * [vim tutorial](https://danielmiessler.com/study/vim/)
+* [grokking vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 * [writing config files in toml](https://en.wikipedia.org/wiki/TOML)
