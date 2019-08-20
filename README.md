@@ -49,6 +49,7 @@
 ### coding
 * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [regex cheatsheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
+* [git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [toml](https://en.wikipedia.org/wiki/TOML)
 * [my vim guide](https://github.com/nsingla/vim_settings)
 * [tmux tutorial](https://linuxize.com/post/getting-started-with-tmux/)
