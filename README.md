@@ -41,9 +41,14 @@
 * [prism-break, privacy tools](https://prism-break.org/en/)
 
 
-### misc
+### science
 * [top academic papers](https://www.fermatslibrary.com/)
 * [mental models](https://fs.blog/mental-models/)
-* [vim tutorial](https://danielmiessler.com/study/vim/)
-* [grokking vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
-* [writing config files in toml](https://en.wikipedia.org/wiki/TOML)
+
+
+### coding
+* [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [regex cheatsheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
+* [toml](https://en.wikipedia.org/wiki/TOML)
+* [my vim guide](https://github.com/nsingla/vim_settings)
+* [tmux tutorial](https://linuxize.com/post/getting-started-with-tmux/)
