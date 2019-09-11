@@ -47,9 +47,23 @@
 
 
 ### coding
+* [the architecture of open src apps](https://www.aosabook.org/en/index.html)
 * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [regex cheatsheet](https://github.com/niklongstone/regular-expression-cheat-sheet)
 * [git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 * [toml](https://en.wikipedia.org/wiki/TOML)
 * [my vim guide](https://github.com/nsingla/vim_settings)
 * [tmux tutorial](https://linuxize.com/post/getting-started-with-tmux/)
+
+
+### coding tools
+* [gamma, data driven story telling](https://thegamma.net/)
+* [workshub, work on open src issues](https://www.works-hub.com)
+* [binder, turn git repo to interactive jupyter notebook](https://mybinder.org/)
+
+
+### learn cs
+* [stanford curriculum](https://docs.google.com/spreadsheets/d/1RRKq2CgVr4UkEqy1UL9FmOjet9PCjX9WCRNau8c2j2c/edit#gid=0)
+* [open src data sc masters](http://datasciencemasters.org/)
+* [open src computer sc](https://github.com/ossu/computer-science)
+* [another open src computer sc](https://github.com/ForrestKnight/open-source-cs)
