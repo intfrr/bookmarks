@@ -32,7 +32,7 @@
 * [satoshi nakamoto institue](https://nakamotoinstitute.org)
 * [noded podcast](https://noded.org)
 * [stephen livera podcast](https://stephanlivera.com)
-* [chaincode labs](https://chaincode.com/)
+* [chaincode labs lightning curriculum](https://github.com/chaincodelabs/lightning-curriculum)
 * [jameson lopp's list of resources](https://www.lopp.net/bitcoin-information.html)
 
 
