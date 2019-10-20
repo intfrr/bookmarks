@@ -32,6 +32,7 @@
 * [satoshi nakamoto institue](https://nakamotoinstitute.org)
 * [noded podcast](https://noded.org)
 * [stephen livera podcast](https://stephanlivera.com)
+* [mit mas.s62 cryptocurrency engineering and design](https://www.youtube.com/watch?v=zYzEmBlJ77s&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&index=2)
 * [chaincode labs lightning curriculum](https://github.com/chaincodelabs/lightning-curriculum)
 * [jameson lopp's list of resources](https://www.lopp.net/bitcoin-information.html)
 
