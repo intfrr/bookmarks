@@ -14,6 +14,8 @@
 
 ##### channels:
 * [kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
+* [richard dawkins](https://www.youtube.com/watch?v=_QRSRBDxxa0&list=PLdCcIzYD3Q20hmD8yWP3t4v6m5TDf_qce)
+* [adam curtis](https://www.youtube.com/channel/UCAWxZyfEPejhGJv8Z4wbKBw/videos)
 
 
 ##### other sources:
