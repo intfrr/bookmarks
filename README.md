@@ -10,6 +10,7 @@
 
 
 ### startups
+* [pitch decks](https://starthouse.xyz)
 * [ycombinator startups](http://yclist.com)
 * [startup graveyard](http://startupgraveyard.io/)
 * [indie hackers](https://www.indiehackers.com/businesses)
@@ -22,21 +23,6 @@
 * [article: how to register a company in usa](http://aynuriev.com/how-to-register-company-usa/)
 
 
-### bitcoin
-* [bitcoinity](https://data.bitcoinity.org/markets/books/USD)
-* [cryptowat.ch](https://cryptowat.ch/)
-* [lightning network stats](http://1ml.com/)
-* [open-source payment processor with lightning](https://btcpayserver.org/)
-* [ccxt, crypto trading api](https://github.com/ccxt/ccxt)
-* [hummingbot, crypto arb library](https://hummingbot.io/start/)
-* [gryphon, crypto trading library](http://www.gryphonframework.org/)
-* [satoshi nakamoto institue](https://nakamotoinstitute.org)
-* [noded podcast](https://noded.org)
-* [stephen livera podcast](https://stephanlivera.com)
-* [mit mas.s62 cryptocurrency engineering and design](https://www.youtube.com/watch?v=zYzEmBlJ77s&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&index=2)
-* [chaincode labs lightning curriculum](https://github.com/chaincodelabs/lightning-curriculum)
-* [jameson lopp's list of resources](https://www.lopp.net/bitcoin-information.html)
-
 
 ### privacy tools
 * [privacy tools](https://www.privacytools.io)
@@ -46,6 +32,7 @@
 ### science
 * [top academic papers](https://www.fermatslibrary.com/)
 * [mental models](https://fs.blog/mental-models/)
+* [better thinking/models](https://untools.co/)
 
 
 ### coding
@@ -69,3 +56,19 @@
 * [open src data sc masters](http://datasciencemasters.org/)
 * [open src computer sc](https://github.com/ossu/computer-science)
 * [another open src computer sc](https://github.com/ForrestKnight/open-source-cs)
+
+
+### bitcoin
+* [bitcoinity](https://data.bitcoinity.org/markets/books/USD)
+* [cryptowat.ch](https://cryptowat.ch/)
+* [lightning network stats](http://1ml.com/)
+* [open-source payment processor with lightning](https://btcpayserver.org/)
+* [ccxt, crypto trading api](https://github.com/ccxt/ccxt)
+* [hummingbot, crypto arb library](https://hummingbot.io/start/)
+* [gryphon, crypto trading library](http://www.gryphonframework.org/)
+* [satoshi nakamoto institue](https://nakamotoinstitute.org)
+* [bitcoin echo chamber podcast](https://bitcoinechochamber.com/)
+* [stephen livera podcast](https://stephanlivera.com)
+* [mit mas.s62 cryptocurrency engineering and design](https://www.youtube.com/watch?v=zYzEmBlJ77s&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&index=2)
+* [chaincode labs lightning curriculum](https://github.com/chaincodelabs/lightning-curriculum)
+* [jameson lopp's list of resources](https://www.lopp.net/bitcoin-information.html)
