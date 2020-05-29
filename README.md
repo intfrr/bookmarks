@@ -67,8 +67,6 @@
 * [hummingbot, crypto arb library](https://hummingbot.io/start/)
 * [gryphon, crypto trading library](http://www.gryphonframework.org/)
 * [satoshi nakamoto institue](https://nakamotoinstitute.org)
-* [bitcoin echo chamber podcast](https://bitcoinechochamber.com/)
-* [stephen livera podcast](https://stephanlivera.com)
 * [mit mas.s62 cryptocurrency engineering and design](https://www.youtube.com/watch?v=zYzEmBlJ77s&list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId&index=2)
 * [chaincode labs lightning curriculum](https://github.com/chaincodelabs/lightning-curriculum)
 * [jameson lopp's list of resources](https://www.lopp.net/bitcoin-information.html)
