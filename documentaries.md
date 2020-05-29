@@ -5,7 +5,7 @@
 * [psychedelica](https://vimeo.com/418866792)
 * [freedom from choice](https://www.youtube.com/watch?v=3Kio8pi4rds&feature=youtu.be)
 * [manufacturing consent, chomsky](https://www.youtube.com/watch?v=EuwmWnphqII)
-* [fantastic fungi](https://www.youtube.com/watch?v=bxABOiay6oA&feature=emb_logo)
+* [fantastic fungi (trailer)](https://www.youtube.com/watch?v=bxABOiay6oA&feature=emb_logo)
 * [surveillance](https://www.youtube.com/watch?v=1M6qkUIZkWE&feature=youtu.be)
 * [the stranger, albert camus](https://www.youtube.com/watch?v=0R9iKCpQxi0&feature=youtu.be)
 * [tesla, pyramids](https://www.youtube.com/watch?v=Ft1waA3p2_w)
