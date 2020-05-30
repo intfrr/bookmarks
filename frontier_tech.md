@@ -1,9 +1,12 @@
 #### brain-computer interface:
+invasive:
+* [neuralink](https://www.neuralink.com/)
+* [braingate, case western](https://engineering.case.edu/groups/BrainGate2/node/11)
+non-invasive:
 * [ctrl-labs](https://www.ctrl-labs.com/)
 * [kernel](https://www.kernel.co/)
-* [neuralink](https://www.neuralink.com/)
 * [neurable](https://www.neurable.com/)
-* [braingate, case western](https://engineering.case.edu/groups/BrainGate2/node/11)
+
 
 
 #### solid state batteries:
