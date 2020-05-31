@@ -3,6 +3,7 @@ invasive:
 * [neuralink](https://www.neuralink.com/)
 * [braingate, case western](https://engineering.case.edu/groups/BrainGate2/node/11)
 * [chad bouton, feinstein institute](https://www.youtube.com/watch?v=BPI7XWPSbS4)
+
 non-invasive:
 * [ctrl-labs](https://www.ctrl-labs.com/)
 * [kernel](https://www.kernel.co/)
