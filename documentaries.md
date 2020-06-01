@@ -1,7 +1,8 @@
 ##### mindblowing documentaries:
 * [princes of the yen](https://www.youtube.com/watch?v=p5Ac7ap_MAY)
 * [the trap p1, adam curtis](https://www.youtube.com/watch?v=okUydGWdmAA)
-* [do not resist](http://www.donotresistfilm.com/)
+* [do not resist, trailer](http://www.donotresistfilm.com/)
+* [13th, trailer](https://www.youtube.com/watch?v=f6GDcBf_IjY)
 * [century of the self, adam curtis](https://www.youtube.com/watch?v=GFwDc17WZ-A&feature=youtu.be)
 * [freedom from choice](https://www.youtube.com/watch?v=3Kio8pi4rds&feature=youtu.be)
 * [manufacturing consent, chomsky](https://www.youtube.com/watch?v=EuwmWnphqII)
