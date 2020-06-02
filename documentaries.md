@@ -2,6 +2,7 @@
 * [princes of the yen](https://www.youtube.com/watch?v=p5Ac7ap_MAY)
 * [the trap p1, adam curtis](https://www.youtube.com/watch?v=okUydGWdmAA)
 * [internet's own boy](https://www.youtube.com/watch?v=9vz06QO3UkQ)
+* [the fifth estate](https://www.youtube.com/watch?v=U37pe1n6_Ik)
 * [do not resist (trailer)](http://www.donotresistfilm.com/)
 * [13th (trailer)](https://www.youtube.com/watch?v=f6GDcBf_IjY)
 * [century of the self, adam curtis](https://www.youtube.com/watch?v=GFwDc17WZ-A&feature=youtu.be)
