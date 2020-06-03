@@ -3,14 +3,14 @@
 * [the trap p1, adam curtis](https://www.youtube.com/watch?v=okUydGWdmAA)
 * [internet's own boy](https://www.youtube.com/watch?v=9vz06QO3UkQ)
 * [the fifth estate](https://www.youtube.com/watch?v=U37pe1n6_Ik)
-* [do not resist (trailer)](http://www.donotresistfilm.com/)
-* [13th (trailer)](https://www.youtube.com/watch?v=f6GDcBf_IjY)
 * [century of the self, adam curtis](https://www.youtube.com/watch?v=GFwDc17WZ-A&feature=youtu.be)
 * [freedom from choice](https://www.youtube.com/watch?v=3Kio8pi4rds&feature=youtu.be)
 * [manufacturing consent, chomsky](https://www.youtube.com/watch?v=EuwmWnphqII)
 * [surveillance](https://www.youtube.com/watch?v=1M6qkUIZkWE&feature=youtu.be)
 * [the stranger, albert camus](https://www.youtube.com/watch?v=0R9iKCpQxi0&feature=youtu.be)
 * [tesla, pyramids](https://www.youtube.com/watch?v=Ft1waA3p2_w)
+* [do not resist (trailer)](http://www.donotresistfilm.com/)
+* [13th (trailer)](https://www.youtube.com/watch?v=f6GDcBf_IjY)
 * [fantastic fungi (trailer)](https://www.youtube.com/watch?v=bxABOiay6oA&feature=emb_logo)
 
 
