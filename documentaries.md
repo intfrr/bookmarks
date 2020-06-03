@@ -1,4 +1,4 @@
-##### mindblowing documentaries:
+##### great documentaries:
 * [princes of the yen](https://www.youtube.com/watch?v=p5Ac7ap_MAY)
 * [the trap p1, adam curtis](https://www.youtube.com/watch?v=okUydGWdmAA)
 * [internet's own boy](https://www.youtube.com/watch?v=9vz06QO3UkQ)
