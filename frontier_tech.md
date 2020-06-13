@@ -17,6 +17,8 @@ mppa chips:
 * [zeroasic](https://www.zeroasic.com/)
 * [parallella](https://www.parallella.org/board/)
 
+open source hw:
+* [wiki list](https://en.wikipedia.org/wiki/List_of_open-source_computing_hardware)
 
 #### solid state batteries:
 * [solid power](https://www.solidpowerbattery.com/#ourSolution)
