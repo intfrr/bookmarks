@@ -25,10 +25,10 @@ non-invasive:
 * [solugen](https://www.solugentech.com/about.html)
 
 
-#### self-driving trucks:
+#### self-driving automotives:
 * [waymo l5](https://waymo.com/)
 * [tesla l4](https://www.tesla.com/semi)
 * [tusimple l4](https://www.tusimple.com/)
-* [embark trucks l4](https://embarktrucks.com/)
+* [embark l4](https://embarktrucks.com/)
 
 
