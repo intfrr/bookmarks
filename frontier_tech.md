@@ -26,9 +26,9 @@ non-invasive:
 
 
 #### self-driving trucks:
-* [embark trucks l4](https://embarktrucks.com/)
-* [tusimple l4](https://www.tusimple.com/)
 * [waymo l5](https://waymo.com/)
 * [tesla l4](https://www.tesla.com/semi)
+* [tusimple l4](https://www.tusimple.com/)
+* [embark trucks l4](https://embarktrucks.com/)
 
 
