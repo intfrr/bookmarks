@@ -30,5 +30,6 @@ non-invasive:
 * [tesla l4](https://www.tesla.com/semi)
 * [tusimple l4](https://www.tusimple.com/)
 * [embark l4](https://embarktrucks.com/)
+* [comma](https://comma.ai/)
 
 
