@@ -10,6 +10,13 @@ non-invasive:
 * [neurable](https://www.neurable.com/)
 
 
+### high performance computing:
+mppa chips:
+* [kalray](https://www.kalrayinc.com/)
+* [greenarray](http://www.greenarraychips.com/)
+* [zeroasic](https://www.zeroasic.com/)
+* [parallella](https://www.parallella.org/board/)
+
 
 #### solid state batteries:
 * [solid power](https://www.solidpowerbattery.com/#ourSolution)
