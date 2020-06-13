@@ -19,3 +19,16 @@ non-invasive:
 
 #### dna data storage:
 * [wyss, harvard](https://wyss.harvard.edu/technology/dna-data-storage/)
+
+
+#### bio based chemicals:
+* [solugen](https://www.solugentech.com/about.html)
+
+
+#### self-driving trucks:
+* [embark trucks l4](https://embarktrucks.com/)
+* [tusimple l4](https://www.tusimple.com/)
+* [waymo l5](https://waymo.com/)
+* [tesla l4](https://www.tesla.com/semi)
+
+
